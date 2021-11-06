@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> upstream/main
 #!/bin/bash
 
 # Submit this script with: sbatch <this-filename>
@@ -21,7 +17,4 @@ python -u -c "import PyHipp as pyh; \
 import time; \
 pyh.RPLLFP(saveLevel=1); \
 print(time.localtime());"
-<<<<<<< HEAD
 
-=======
->>>>>>> upstream/main
